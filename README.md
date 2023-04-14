@@ -81,7 +81,7 @@ The process of Gerber and drill file generation in Kicad is a little more clunky
 
 **SetUp / Calibration**
 
-Yves offers a [useful description of setup], (http://yusynth.net/Modular/EN/VCA/index.html) which assumes the availability of an oscilloscope. 
+Yves offers a [useful description of setup](http://yusynth.net/Modular/EN/VCA/index.html), which assumes the availability of an oscilloscope. 
 I imagine the circuit could be setup adequately without a 'scope - but I've never tried to do it! Certainly an a.c. coupled build of this VCA
 could be made to work adequately without access to a 'scope in the setup phase, but I think it would be tricky to setup a d.c. coupled version without access 
 to appropriate test gear.
