@@ -46,7 +46,7 @@ and that:
 
 Accordingly, the copyright for the circuit rests with Yves and no commercial exploitation is permitted.
 
-I have reflected this in the License for the Eurorack version presented in this repository.
+I have reflected this in the [License](License.txt) for the Eurorack version presented in this repository.
 
 
 
