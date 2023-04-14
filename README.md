@@ -2,12 +2,6 @@
 
 **A Eurorack Version of Yves Usson's 'Simple VCA'**
 
-
-<p align="center">
-  
-![Panel and PCB](https://user-images.githubusercontent.com/3152962/232121850-bc82447b-3ae5-459c-9e30-fd00904ef8fb.png)
-
-</p>
 This repository contains design files for my Eurorack version of Yves Usson's 'Simple VCA' circuit:
 http://yusynth.net/Modular/EN/VCA/index.html
 
@@ -25,8 +19,8 @@ This Eurorack version is implemented on a single PCB, following closely Yves' or
 I have replaced the specified BC547 transistors with 2n3904s, as these are my everyday 'popcorn' NPNs. Yves does note this as a standard replacement 
 and warns that the pinouts of the two transistors is revesed; 'CBE' becomes 'EBC'. 
 
-My PCB is designed and silkscreened for 2n3904s, so if you want to swap back to the original BC547Cs, you'll have to put these in 'in reverse' 
-(with the flat face of the case aligned with the curve on the silkscreen).
+My PCB is designed and silkscreened for 2n3904s, so if you want to swap back to the original BC547Cs, you'll have to place these 'in reverse' 
+(i.e. with the flat face of the case aligned with the curve on the silkscreen).
 
 I have also swapped the two IC packages (a TL072 and a LM741/TL071) for a single TL074 for two reasons:
 Firstly, it is more efficient in terms of PCB area to do this.
