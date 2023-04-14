@@ -12,7 +12,8 @@ Yves (and Eddy) describe how the circuit can be constructed in a.c. or d.c. coup
 potentiometers) is useful for handling CV signals, whereas the a.c. coupled version (which should use LOGARTHMIC 'A' potentiometers) is the standard
 version for handling audio signals.
 
-This Eurorack version is implemented on a single PCB, following closely Yves' original schematic. (You can see my schematic as a graphic [here](YuSynth%20Eurorack%20VCA%20Schematic.png))
+This Eurorack version is implemented on a single PCB, following closely Yves' original schematic. 
+(You can see my schematic as a graphic [here](YuSynth%20Eurorack%20VCA%20Schematic.png))
 
 
 I have replaced the specified BC547 transistors with 2n3904s, as these are my everyday 'popcorn' NPNs. Yves does note this as a standard replacement 
