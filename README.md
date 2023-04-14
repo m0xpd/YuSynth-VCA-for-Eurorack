@@ -1,12 +1,14 @@
 # YuSynth-VCA-for-Eurorack
-A Eurorack Version of Yves Usson's 'Simple VCA'
+
+**A Eurorack Version of Yves Usson's 'Simple VCA'**
 
 This repository contains design files for my Eurorack version of Yves Usson's 'Simple VCA' circuit:
 http://yusynth.net/Modular/EN/VCA/index.html
+
 which has been described in a stripboard implemementation on Eddy Bergman's Synth DIY site:
 https://www.eddybergman.com/2020/04/synthesizer-build-part-29-vca-yusynth_25.html
 
-Yves (and Eddy) describe how the circuit can be constructed in a.c. or d.c. coupled versions; the d.c. coupled version (which should use LINEAR
+Yves (and Eddy) describe how the circuit can be constructed in a.c. or d.c. coupled versions; the d.c. coupled version (which should use LINEAR 'B'
 potentiometers) is useful for handling CV signals, whereas the a.c. coupled version (which should use LOGARTHMIC 'A' potentiometers) is the standard
 version for handling audio signals.
 
@@ -35,7 +37,7 @@ The populated PCB is seen mounted on the front panel below:
 
 ![m0xpd VCA](https://user-images.githubusercontent.com/3152962/232079387-0153d039-fb5f-40cc-bcfa-8a5471c5c308.png)
 
-Licensing the VCA IP
+**Licensing the IP**
 
 Yves is clear on his website that:
 "All circuits, schematics, printed circuit board, panel design and associated data published on (yusynth.net) can be used for private use only." 
@@ -57,7 +59,7 @@ This work is licensed under a
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-Hardware Design Files: PCB
+**Hardware Design Files: PCB**
 
 The PCB is described by Eagle files .sch and .brd located in the PCB folder. These can be loaded into the (free) version of Eagle:
 https://www.autodesk.co.uk/products/eagle/features
@@ -69,13 +71,13 @@ https://support.jlcpcb.com/article/137-how-to-generate-gerber-and-drill-files-in
 
 I'm sure the other PCB houses offer an equivalent service - but I can't speak from first-hand experience.
 
-Hardware Design Files : Front Panel
+**Hardware Design Files : Front Panel**
 
 A front panel to complete the module is described by a simple Kicad project located in the Front_Panel folder. This contains files for a simple Kicad project, which defines the panel - you may wish eitehr to create your own or modify my design to 'personalise' it.
 
 The process of Gerber and drill file generation in Kicad is a little more clunky than in Eagle, but you'll find on-line tutorials of how to do it.
 
-SetUp / Calibration
+**SetUp / Calibration**
 
 Yves offers a useful description of setup on http://yusynth.net/Modular/EN/VCA/index.html, which assumes the availability of an oscilloscope. 
 I imagine the circuit could be setup adequately without a 'scope - but I've never tried to do it! Certainly an a.c. coupled build of this VCA
