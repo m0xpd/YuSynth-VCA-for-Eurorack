@@ -75,7 +75,7 @@ I'm sure the other PCB houses offer an equivalent service - but I can't speak fr
 
 **Hardware Design Files : Front Panel**
 
-A front panel to complete the module is described by a simple Kicad project located in the Front_Panel folder. This contains files for a simple Kicad project, which defines the panel - you may wish eitehr to create your own or modify my design to 'personalise' it.
+A front panel to complete the module is described by a simple Kicad project located in the [Front_Panel folder](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/tree/main/Front_Panel). This contains files for a simple Kicad project, which defines the panel - you may wish eitehr to create your own or modify my design to 'personalise' it.
 
 The process of Gerber and drill file generation in Kicad is a little more clunky than in Eagle, but you'll find on-line tutorials of how to do it.
 
