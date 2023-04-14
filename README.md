@@ -2,6 +2,11 @@
 
 **A Eurorack Version of Yves Usson's 'Simple VCA'**
 
+
+![Screenshot 2023-04-14 at 19 14 45](https://user-images.githubusercontent.com/3152962/232124759-e040d76c-e61c-4e8d-8a22-aa63c274c8ec.png)
+
+
+
 This repository contains design files for my Eurorack version of Yves Usson's 'Simple VCA' circuit:
 http://yusynth.net/Modular/EN/VCA/index.html
 
