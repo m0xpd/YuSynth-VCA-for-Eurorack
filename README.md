@@ -63,7 +63,7 @@ This work is licensed under a
 
 **Hardware Design Files: PCB**
 
-The PCB is described by Eagle files .sch and .brd located in the PCB folder. These can be loaded into the (free) version of Eagle:
+The PCB is described by Eagle files .sch and .brd located in the [PCB folder](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/tree/main/PCB). These can be loaded into the (free) version of Eagle:
 https://www.autodesk.co.uk/products/eagle/features
 and are ready for the CAM processor to produce Gerber files ready to send to a PCB fabrication facilities. 
 
