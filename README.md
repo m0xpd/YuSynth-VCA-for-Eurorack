@@ -31,12 +31,11 @@ My PCB is designed and silkscreened for 2n3904s, so if you want to swap back to 
 
 I have also swapped the two IC packages (a TL072 and a LM741/TL071) for a single TL074 for two reasons:
 Firstly, it is more efficient in terms of PCB area to do this.
-Secondly, it is cheaper to do this; TL074s are so widely used that they are cheap, whereas TL072s are rather less widespread, so they're relatively 
-more expensive and TL071s are ridiculously, disproportionately expensive. Even more perversely, the old LM or uA741 (which was once the only op-amp 
-in the shop) is now available only as a nostalgia piece, so it too sells for crazy money!
+Secondly, it is cheaper to do this; TL074s are more efficient than their smaller siblings (they only need one pair of power supply pins) but they're 
+also very widely used so they are cheap, whereas TL072s and (particularly) TL071s are disproportionately expensive. Even more perversely, the old LM 
+or uA741 (which was once the only op-amp in the shop) is now available only as a nostalgia piece, so it too sells for crazy money!
 
-Having done this, I couldn't bear to have that extra op-amp doing nothing, so I gave both outputs independent active drivers.
-
+Having done this, I couldn't bear to have that extra op-amp doing nothing, so I gave both outputs independent active driver.
 
 
 **Licensing the IP**
@@ -47,9 +46,12 @@ Having done this, I couldn't bear to have that extra op-amp doing nothing, so I 
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg  
   
-Yves is clear on his website that:
+Yves is clear on his website:
+
 "All circuits, schematics, printed circuit board, panel design and associated data published on (yusynth.net) can be used for private use only." 
-and that:
+
+and:
+
 "The projects of this site may be build for personal, private usage or educative purpose. Commercial exploitation of the schematics, circuits, front panels and software shown on (yusynth.net), is not permitted without a formal agreement with (Yves Usson)".
 
 Accordingly, the copyright for the circuit rests with Yves and no commercial exploitation is permitted.
