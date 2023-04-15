@@ -35,14 +35,7 @@ in the shop) is now available only as a nostalgia piece, so it too sells for cra
 
 Having done this, I couldn't bear to have that extra op-amp doing nothing, so I gave both outputs independent active drivers.
 
-The unpopulated board is shown below:
 
-![Unpopulated PCB](https://user-images.githubusercontent.com/3152962/232078671-f9c0ce15-e9e0-4985-b357-16a027e5c78b.png)
-
-The board hosts all the controls and sockets and is designed to fit to a front panel to make a complete 8HP module. 
-The populated PCB is seen mounted on the front panel below:
-
-![m0xpd VCA](https://user-images.githubusercontent.com/3152962/232079387-0153d039-fb5f-40cc-bcfa-8a5471c5c308.png)
 
 **Licensing the IP**
 
