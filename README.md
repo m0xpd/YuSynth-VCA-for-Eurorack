@@ -17,8 +17,10 @@ Yves (and Eddy) describe how the circuit can be constructed in a.c. or d.c. coup
 potentiometers) is useful for handling CV signals, whereas the a.c. coupled version (which should use LOGARTHMIC 'A' potentiometers) is the standard
 version for handling audio signals.
 
-This Eurorack version is implemented on a single PCB, following closely Yves' original schematic.
 
+** Circuit Description **
+
+This Eurorack version is implemented on a single PCB, following closely Yves' original schematic.
 (You can see my schematic as a graphic [here](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/blob/main/PCB/YuSynth%20Eurorack%20VCA%20Schematic.png))
 
 
