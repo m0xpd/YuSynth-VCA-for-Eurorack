@@ -18,6 +18,7 @@ potentiometers) is useful for handling CV signals, whereas the a.c. coupled vers
 version for handling audio signals.
 
 This Eurorack version is implemented on a single PCB, following closely Yves' original schematic.
+
 (You can see my schematic as a graphic [here](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/blob/main/PCB/YuSynth%20Eurorack%20VCA%20Schematic.png))
 
 
