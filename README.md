@@ -13,11 +13,6 @@ http://yusynth.net/Modular/EN/VCA/index.html
 which has been described in a stripboard implemementation on Eddy Bergman's Synth DIY site:
 https://www.eddybergman.com/2020/04/synthesizer-build-part-29-vca-yusynth_25.html
 
-Yves (and Eddy) describe how the circuit can be constructed in a.c. or d.c. coupled versions; the d.c. coupled version (which should use LINEAR 'B'
-potentiometers) is useful for handling CV signals, whereas the a.c. coupled version (which should use LOGARTHMIC 'A' potentiometers) is the standard
-version for handling audio signals.
-
-
 
 
 **Circuit Description**
