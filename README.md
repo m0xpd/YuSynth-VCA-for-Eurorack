@@ -51,7 +51,8 @@ Yves is clear on the position with copyright on his website:
 
 and:
 
-"The projects of this site may be build for personal, private usage or educative purpose. Commercial exploitation of the schematics, circuits, front panels and software shown on (yusynth.net), is not permitted without a formal agreement with (Yves Usson)".
+"The projects of (yusynth.net) may be build for personal, private usage or educative purpose. Commercial exploitation of the schematics, circuits, 
+front panels and software shown on (yusynth.net), is not permitted without a formal agreement with (Yves Usson)".
 
 Accordingly, **the copyright for this VCA circuit rests with Yves and no commercial exploitation is permitted**.
 
