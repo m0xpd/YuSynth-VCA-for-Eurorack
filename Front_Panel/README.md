@@ -1,4 +1,4 @@
-This folder contains design files for a front panel for the Eurorack version of the YuSynth VCA, developed in Kicad. 
+[This folder](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/tree/main/Front_Panel) contains design files for a front panel for the Eurorack version of the YuSynth VCA, developed in Kicad. 
 
 The files constitute a simple [Kicad](https://www.kicad.org/) project, which defines the panel - you may wish to modify my design to 'personalise' it.
 
