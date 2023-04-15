@@ -65,12 +65,16 @@ I have reflected this in the [License](LICENSE.txt) for the Eurorack version pre
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
+<p>
 
+  
+  
+</p>
 
   
 **Hardware Design Files: PCB**
 
-The PCB is described by Eagle files .sch and .brd located in the [PCB folder](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/tree/main/PCB). 
+The PCB is described by .sch and .brd files located in the [PCB folder](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/tree/main/PCB). 
 
 **Hardware Design Files : Front Panel**
 
