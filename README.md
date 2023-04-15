@@ -20,8 +20,7 @@ version for handling audio signals.
 
 **Circuit Description**
 
-This Eurorack version is implemented on a single PCB, following closely Yves' original schematic.
-(You can see my schematic as a graphic [here](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/blob/main/PCB/YuSynth%20Eurorack%20VCA%20Schematic.png))
+This Eurorack version is implemented on a single PCB, following closely Yves' original schematic.<p>(You can see my schematic as a graphic [here](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/blob/main/PCB/YuSynth%20Eurorack%20VCA%20Schematic.png))
 
 
 I have replaced the specified BC547 transistors with 2n3904s, as these are my everyday 'popcorn' NPNs. Yves does note this as a standard replacement 
