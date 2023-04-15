@@ -32,7 +32,7 @@ Secondly, it is cheaper to do this; TL074s are more efficient than their smaller
 also very widely used so they are cheap, whereas TL072s and (particularly) TL071s are disproportionately expensive. Even more perversely, the old LM 
 or uA741 (which was once the only op-amp in the shop) is now available only as a nostalgia piece, so it too sells for crazy money!
 
-Having done this, I couldn't bear to have that extra op-amp doing nothing, so I gave both outputs independent active driver.
+Having done this, I couldn't bear to have that extra op-amp stage doing nothing, so I gave both outputs independent active drive.
 
   
   
