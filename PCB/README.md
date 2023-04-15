@@ -1,4 +1,4 @@
-This folder contains design files for the Eurocard version of the YuSynth VCA printed circuit board developed in AutoCAD EAGLE.
+[This folder](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/tree/main/PCB) contains design files for the Eurocard version of the YuSynth VCA printed circuit board developed in AutoCAD EAGLE.
 
 These can be loaded into the (free) version of Eagle:
 https://www.autodesk.co.uk/products/eagle/features
