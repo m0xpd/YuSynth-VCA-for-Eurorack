@@ -2,9 +2,9 @@ This folder contains design files for the Eurocard version of the YuSynth VCA pr
 
 These can be loaded into the (free) version of Eagle:
 https://www.autodesk.co.uk/products/eagle/features
-and are ready for the CAM processor to produce Gerber files ready to send to a PCB fabrication facilities. 
+and are ready for the CAM processor to produce Gerber files ready to send to a PCB house. 
 
-I have used JLCPCB (https://jlcpcb.com/) to produce the prototype seen in the pictures above (usual disclaimer). 
+I have used JLCPCB (https://jlcpcb.com/) to produce the prototype seen in the pictures below (usual disclaimer). 
 JLCPCB offer a file to set up the CAM processor to produce the Gerbers in the correct format - it is available (along with some guidelines) here:
 https://support.jlcpcb.com/article/137-how-to-generate-gerber-and-drill-files-in-autodesk-eagle
 
