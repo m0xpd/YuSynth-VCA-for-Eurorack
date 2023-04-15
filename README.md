@@ -63,21 +63,11 @@ This work is licensed under a
 
 **Hardware Design Files: PCB**
 
-The PCB is described by Eagle files .sch and .brd located in the [PCB folder](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/tree/main/PCB). These can be loaded into the (free) version of Eagle:
-https://www.autodesk.co.uk/products/eagle/features
-and are ready for the CAM processor to produce Gerber files ready to send to a PCB fabrication facilities. 
-
-I have used JLCPCB (https://jlcpcb.com/) to produce the prototype seen in the pictures above (usual disclaimer). 
-JLCPCB offer a file to set up the CAM processor to produce the Gerbers in the correct format - it is available (along with some guidelines) here:
-https://support.jlcpcb.com/article/137-how-to-generate-gerber-and-drill-files-in-autodesk-eagle
-
-I'm sure the other PCB houses offer an equivalent service - but I can't speak from first-hand experience.
+The PCB is described by Eagle files .sch and .brd located in the [PCB folder](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/tree/main/PCB). 
 
 **Hardware Design Files : Front Panel**
 
-A front panel to complete the module is described by a simple Kicad project located in the [Front_Panel folder](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/tree/main/Front_Panel). This contains files for a simple Kicad project, which defines the panel - you may wish eitehr to create your own or modify my design to 'personalise' it.
-
-The process of Gerber and drill file generation in Kicad is a little more clunky than in Eagle, but you'll find on-line tutorials of how to do it.
+A front panel to complete the module is described by a simple Kicad project located in the [Front_Panel folder](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/tree/main/Front_Panel). 
 
 **SetUp / Calibration**
 
