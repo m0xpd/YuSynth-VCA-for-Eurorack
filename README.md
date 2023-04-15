@@ -18,6 +18,8 @@ potentiometers) is useful for handling CV signals, whereas the a.c. coupled vers
 version for handling audio signals.
 
 
+
+
 **Circuit Description**
 
 This Eurorack version is implemented on a single PCB, following closely Yves' original schematic.<p>(You can see my schematic as a graphic [here](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/blob/main/PCB/YuSynth%20Eurorack%20VCA%20Schematic.png))
@@ -37,6 +39,8 @@ or uA741 (which was once the only op-amp in the shop) is now available only as a
 
 Having done this, I couldn't bear to have that extra op-amp doing nothing, so I gave both outputs independent active driver.
 
+  
+  
 
 **Licensing the IP**
 
@@ -63,6 +67,7 @@ This work is licensed under a
 
 
 
+  
 **Hardware Design Files: PCB**
 
 The PCB is described by Eagle files .sch and .brd located in the [PCB folder](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/tree/main/PCB). 
@@ -71,6 +76,8 @@ The PCB is described by Eagle files .sch and .brd located in the [PCB folder](ht
 
 A front panel to complete the module is described by a simple Kicad project located in the [Front_Panel folder](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/tree/main/Front_Panel). 
 
+  
+  
 **SetUp / Calibration**
 
 Yves offers a [useful description of setup](http://yusynth.net/Modular/EN/VCA/index.html), which assumes the availability of an oscilloscope. 
