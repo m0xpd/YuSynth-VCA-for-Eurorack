@@ -46,7 +46,7 @@ Having done this, I couldn't bear to have that extra op-amp doing nothing, so I 
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg  
   
-Yves is clear on his website:
+Yves is clear on the position with copyright on his website:
 
 "All circuits, schematics, printed circuit board, panel design and associated data published on (yusynth.net) can be used for private use only." 
 
@@ -54,11 +54,9 @@ and:
 
 "The projects of this site may be build for personal, private usage or educative purpose. Commercial exploitation of the schematics, circuits, front panels and software shown on (yusynth.net), is not permitted without a formal agreement with (Yves Usson)".
 
-Accordingly, the copyright for the circuit rests with Yves and no commercial exploitation is permitted.
+Accordingly, **the copyright for this VCA circuit rests with Yves and no commercial exploitation is permitted**.
 
 I have reflected this in the [License](LICENSE.txt) for the Eurorack version presented in this repository.
-
-
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
