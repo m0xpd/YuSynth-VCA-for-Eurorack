@@ -1,0 +1,58 @@
+Partlist exported from /Users/pauldarlington/Documents/EAGLE/projects/YUSynth VCA/YuSynth VCA Eurorack v1.sch at 16/04/2023 07:21
+
+Part           Value         Device           Package            Description                                       MF    MPN         OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+A1             1k            TRIM_EU-B25P     B25P               POTENTIOMETER                                                                            7                     
+A2             47k           TRIM_EU-B25P     B25P               POTENTIOMETER                                                                            7                     
+A3             100k          TRIM_EU-B25P     B25P               POTENTIOMETER                                                                            7                     
+C1             22u           CPOL-EUE2.5-5    E2,5-5             POLARIZED CAPACITOR, European symbol                                                     16         C          
+C2             22u           CPOL-EUE2.5-5    E2,5-5             POLARIZED CAPACITOR, European symbol                                                     16         C          
+C3             10u           CPOL-EUE2.5-5    E2,5-5             POLARIZED CAPACITOR, European symbol                                                     16         C          
+C4             10u           CPOL-EUE2.5-5    E2,5-5             POLARIZED CAPACITOR, European symbol                                                     16         C          
+C5             100n          C-EU050-025X075  C050-025X075       CAPACITOR, European symbol                                                               29         C          
+C7             100n          C-EU050-025X075  C050-025X075       CAPACITOR, European symbol                                                               29         C          
+C8             100n          C-EU050-025X075  C050-025X075       CAPACITOR, European symbol                                                               29         C          
+C9             100n          C-EU050-025X075  C050-025X075       CAPACITOR, European symbol                                                               29         C          
+CTL1           THONKICONNNEW THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                                                                       
+CTL2           THONKICONNNEW THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                                                                       
+CTLLEVEL       100k          9MM_SNAP-IN_POT_ 9MM_SNAP-IN_POT    9mm vertical snap-in pot, Alpha / Panasonic style                                                              
+D1             1N4148DO35-7  1N4148DO35-7     DO35-7             DIODE                                                                                    58                    
+EURORACK_POWER 2510-         2510-            PAK100/2500-10     3M (TM) Pak 100 4-Wall Header                     3M    2510-6002UB 9838244    46F4725   0                     
+GAIN           100k          9MM_SNAP-IN_POT_ 9MM_SNAP-IN_POT    9mm vertical snap-in pot, Alpha / Panasonic style                                                              
+IN1            THONKICONNNEW THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                                                                       
+IN2            THONKICONNNEW THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                                                                       
+LED1                         LED3MM           LED3MM             LED                                                                                      97                    
+OUT1           THONKICONNNEW THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                                                                       
+OUT2           THONKICONNNEW THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                                                                       
+POWER          22-23-2031    22-23-2031       22-23-2031         .100" (2.54mm) Center Header - 3 Pin              MOLEX 22-23-2031  1462950    30C0862   35                    
+R1             10            R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R2             10            R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R3             100k          R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R4             100k          R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R5             100k          R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R6             100k          R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R7             1k            R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R8             15k           R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R9             15k           R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R10            10k           R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R11            10k           R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R12            100k          R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R13            100k          R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R14            470           R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R15            33k           R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R16            100k          R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R17            15k           R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R18            100k          R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R19            68k           R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R20            68k           R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R21            22k           R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R22            22k           R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R23            470k          R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R24            12k           R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R25            1k            R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+R26            470           R-EU_0204/7      0204/7             RESISTOR, European symbol                                                                79         R          
+SIGLEVEL       100k          9MM_SNAP-IN_POT_ 9MM_SNAP-IN_POT    9mm vertical snap-in pot, Alpha / Panasonic style                                                              
+T1             2N3904        2N3904           TO92               NPN TRANSISTOR                                                                           27                    
+T2             2N3904        2N3904           TO92               NPN TRANSISTOR                                                                           27                    
+T3             2N3904        2N3904           TO92               NPN TRANSISTOR                                                                           27                    
+T4             2N3904        2N3904           TO92               NPN TRANSISTOR                                                                           27                    
+U1             TL074_        TL074_           DIL14              Generic Quad Op Amp                                                                                            
