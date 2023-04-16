@@ -17,7 +17,7 @@ https://www.eddybergman.com/2020/04/synthesizer-build-part-29-vca-yusynth_25.htm
 
 **Circuit Description**
 
-This Eurorack version is implemented on a single PCB, following closely Yves' original schematic.<p>(You can see my schematic as a graphic [here](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/blob/main/PCB/YuSynth%20Eurorack%20VCA%20Schematic.png))
+This Eurorack version is implemented on a single PCB, following closely Yves' original schematic.<p>(You can see my schematic as a graphic [here](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/blob/main/PCB/YuSynth%20Eurorack%20VCA%20Schematic.png) and the BoM is [here](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/blob/main/PCB/YuSynth%20VCA%20Eurorack%20v1%20BOM.txt) )
 
 
 I have replaced the specified BC547 transistors with 2n3904s, as these are my everyday 'popcorn' NPNs. Yves does note this as a standard replacement 
