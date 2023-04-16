@@ -70,7 +70,7 @@ This work is licensed under a
   
 **Hardware Design Files: PCB**
 
-The PCB is described by .sch and .brd files located in the [PCB folder](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/tree/main/PCB). 
+The PCB is described by .sch and .brd files and a BoM located in the [PCB folder](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/tree/main/PCB). 
 
 **Hardware Design Files : Front Panel**
 
