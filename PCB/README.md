@@ -39,4 +39,4 @@ I've made both versions.
 Some components are mechanically critical in my design; the control potentiometers are 9mm vertical Alpha types such as [this](https://www.thonk.co.uk/shop/alpha-9mm-pots-vertical-t18/) and the jacks are [Thonkiconns](https://www.thonk.co.uk/shop/thonkiconn/).
 
 Back in the day I used 3-way Molex KK connectors for powering modules and I still fit these as an alternative to the standard Eurorack power 
-connector if spaces is available - you can omit this 'POWER' header if you don't want to use it!
+connector if space is available - you can omit the three way 'POWER' header if you don't plan to use it!
