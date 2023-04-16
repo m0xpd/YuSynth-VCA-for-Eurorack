@@ -18,3 +18,26 @@ and the populated board is seen here (both from the 'front side', usually obscur
 
 ![Populated PCB](https://user-images.githubusercontent.com/3152962/232188158-9b3b2cb8-2b80-437d-991e-02d6b0e7ab3c.png)
 
+**Bill of Materials**
+
+The BoM is presented in the rather verbose format produced by eagle; some additional notes might be useful.
+
+Firstly, Yves explains that two versions of the VCA can be constructed: an a.c. coupled version (for handling 'audio' signals) and a d.c. version 
+(useful for controlling CV signals).
+
+The a.c. coupled version is the standard build. It uses all the parts in the BoM. The three 100k control potentiometers should be logarithmic 
+taper types in this application, 'A100K'. Linear taper potentiometers will work in this application, but they will give the usual poor mapping 
+between rotational angle and 'loudness'. Note that these are named with idents 'SIGLEVEL','GAIN', and 'CTLLEVEL' (Yves uses the idents 'P1', P2' 
+and P3').
+
+The d.c. coupled version is non-standard. To make the system d.c. coupled, capacitors C3 and C4 must be replaced by wire links. Also, the signal 
+level monitor will not operate as intended and should be omitted (do not fit R 24&25, C8&9 D1, LED1 and T4). In this case, the three control
+potentiometers should be linear, 'B100K'.
+
+I've made both versions.
+
+The control potentiometers in my design are 9mm vertical Alpha types such as [this](https://www.thonk.co.uk/shop/alpha-9mm-pots-vertical-t18/) and 
+the jacks are [Thonkiconns](https://www.thonk.co.uk/shop/thonkiconn/).
+
+Back in the day I used 3-way Molex KK connectors for powering modules and I still fit these as an alternative to the standard Eurorack power 
+connector if spaces is available - you can omit this 'POWER' header if you don't want to use it!
