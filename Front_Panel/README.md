@@ -2,8 +2,8 @@
 
 The files constitute a simple [Kicad](https://www.kicad.org/) project, which defines the panel - you may wish to modify my design to 'personalise' it.
 
-The process of Gerber and drill file generation in Kicad seems to me to be a little more 'clunky' than in Eagle (because I'm used to it), but you'll 
-find plenty of on-line tutorials explaining how to do it (such as [this one](https://www.lioncircuits.com/faq/pcb-fab/how-to-generate-the-gerber-files-using-kicad)).
+The process of Gerber and drill file generation in Kicad seems to me to be a little more 'clunky' than in Eagle (because I'm used to Eagle's CAM
+processor), but you'll find plenty of on-line tutorials explaining how to do it (such as [this one](https://www.lioncircuits.com/faq/pcb-fab/how-to-generate-the-gerber-files-using-kicad)).
 
 My panel is seen here:
 
