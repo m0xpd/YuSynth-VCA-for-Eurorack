@@ -20,7 +20,7 @@ and the populated board is seen here (both from the 'front side', usually obscur
 
 **Bill of Materials**
 
-The BoM is presented in the rather verbose format produced by eagle; some additional notes might be useful.
+The [BoM](https://github.com/m0xpd/YuSynth-VCA-for-Eurorack/blob/main/PCB/YuSynth%20VCA%20Eurorack%20v1%20BOM.txt) is presented in the rather verbose format produced by eagle; some additional notes might be useful.
 
 Firstly, Yves explains that two versions of the VCA can be constructed: an a.c. coupled version (for handling 'audio' signals) and a d.c. version 
 (useful for controlling CV signals).
