@@ -27,7 +27,7 @@ Firstly, Yves explains that two versions of the VCA can be constructed: an a.c. 
 
 The a.c. coupled version is the standard build. It uses all the parts in the BoM. The three 100k control potentiometers should be logarithmic 
 taper types in this application, 'A100K'. Linear taper potentiometers will work, but they will give the usual poor mapping between rotational angle 
-and 'loudness'. Note that these potentiometers are named in my schematic with idents 'SIGLEVEL','GAIN', and 'CTLLEVEL' (Yves uses the idents 'P1', 'P2' 
+and 'loudness'. Note that these potentiometers are named in my schematic with idents 'SIGLEVEL', 'GAIN', and 'CTLLEVEL' (Yves uses the idents 'P1', 'P2' 
 and 'P3').
 
 The d.c. coupled version is non-standard. To make the system d.c. coupled, capacitors C3 and C4 must be replaced by wire links. Also, the signal 
