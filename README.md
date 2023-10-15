@@ -59,7 +59,7 @@ Accordingly, **the copyright for this VCA circuit rests with Yves and no commerc
 I have reflected this in the [License](LICENSE.txt) for the Eurorack version presented in this repository.
 
 This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License].(https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
 <p>
 
